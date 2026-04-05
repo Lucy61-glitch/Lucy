@@ -1,0 +1,22 @@
+[
+    {"q": "Does your digital calendar accurately reflect all your upcoming university deadlines?", "o": [["Every single one", 0], ["Most of them", 1], ["About half", 2], ["Only major ones", 3], ["Almost none", 4]]},
+    {"q": "What is your typical reaction when a task notification pops up on your phone?", "o": [["Start immediately", 0], ["Plan for later", 1], ["Check and close", 2], ["Dismiss it", 3], ["Ignore completely", 4]]},
+    {"q": "Is the 'Snooze' button a frequent choice for your deadline reminders?", "o": [["Never used it", 0], ["Once in a while", 1], ["Sometimes", 2], ["Quite often", 3], ["My best friend", 4]]},
+    {"q": "Can you access your schedule instantly from any device you own?", "o": [["Perfectly synced", 0], ["Mostly synced", 1], ["On two devices", 2], ["Phone only", 3], ["No sync at all", 4]]},
+    {"q": "To what extent do you trust your digital alerts over your own memory?", "o": [["100% Trust", 0], ["High trust", 1], ["50/50 balance", 2], ["Partial trust", 3], ["Memory only", 4]]},
+    {"q": "When was the last time you reviewed your upcoming weekly tasks?", "o": [["This morning", 0], ["Yesterday", 1], ["Few days ago", 2], ["Last week", 3], ["Can't remember", 4]]},
+    {"q": "Does your calendar use different colors to separate study, work, and life?", "o": [["Vividly coded", 0], ["Basic coding", 1], ["Two colors", 2], ["Everything is one color", 3], ["No calendar used", 4]]},
+    {"q": "If a professor changes a deadline, how fast is it updated in your app?", "o": [["Within minutes", 0], ["Same day", 1], ["Next day", 2], ["Before the deadline", 3], ["Never updated", 4]]},
+    {"q": "Have you ever missed a submission because a reminder was set too late?", "o": [["Never happened", 0], ["Maybe once", 1], ["A few times", 2], ["Frequently", 3], ["All the time", 4]]},
+    {"q": "Are you currently juggling too many different planning apps at once?", "o": [["One perfect app", 0], ["Two apps", 1], ["Three apps", 2], ["A messy mix", 3], ["No apps at all", 4]]},
+    {"q": "Do you utilize 'Travel Time' alerts to arrive at meetings on time?", "o": [["Always", 0], ["Usually", 1], ["Rarely", 2], ["Didn't know it existed", 3], ["Never", 4]]},
+    {"q": "Is it your habit to set multiple reminders for a single high-stakes task?", "o": [["Always (3+ alerts)", 0], ["Usually (2 alerts)", 1], ["One alert only", 2], ["Rarely", 3], ["Never", 4]]},
+    {"q": "How often do you block out specific hours for 'Deep Work' on your grid?", "o": [["Every day", 0], ["3-4 times a week", 1], ["Occasionally", 2], ["Rarely", 3], ["Never", 4]]},
+    {"q": "Do you feel 'Notification Fatigue' from too many calendar pings?", "o": [["Not at all", 0], ["A little", 1], ["It's manageable", 2], ["Yes, it's annoying", 3], ["Extremely overwhelmed", 4]]},
+    {"q": "When do you usually clear out old or cancelled events from your view?", "o": [["Immediately", 0], ["Every weekend", 1], ["Once a month", 2], ["Once a year", 3], ["Never", 4]]},
+    {"q": "Is your digital calendar shared with classmates for group projects?", "o": [["Yes, actively", 0], ["Sometimes", 1], ["Only if asked", 2], ["Rarely", 3], ["Never", 4]]},
+    {"q": "Has a technical glitch (like no sync) ever caused you to miss a class?", "o": [["Never", 0], ["Once", 1], ["Twice", 2], ["Several times", 3], ["Frequently", 4]]},
+    {"q": "Do you find the 'Widget' on your home screen helpful for quick checks?", "o": [["Extremely helpful", 0], ["Good to have", 1], ["Neutral", 2], ["Don't like it", 3], ["Don't use widgets", 4]]},
+    {"q": "Are location maps and Zoom links attached to your calendar entries?", "o": [["Always attached", 0], ["Mostly", 1], ["Sometimes", 2], ["Rarely", 3], ["Never", 4]]},
+    {"q": "Has using a digital system actually made you a more punctual person?", "o": [["Life-changing", 0], ["Noticeable change", 1], ["Slightly better", 2], ["No real change", 3], ["Worse than before", 4]]}
+]
